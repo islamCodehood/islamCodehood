@@ -1,11 +1,10 @@
 ### Hi there 👋
 ## I'm Islam Sayed
-### Front End Web Developer
+### Front End Engineer, with a passion towards UI/UX.
 
-- 👨‍💻 I'm a software engineer at ML Secured.
-- 👨‍💻 I'm a web Tutor at [Udacity](https://www.udacity.com/).
-- 🌱 I’m currently learning Full Stack React Development (MERN).
-- 💬 Ask me about Anything javascript.
+- 👨‍💻 Building ERP Web App @ [MLSecured](https://www.mlsecured.com/).
+- 📕 Currently reading [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/).
+- 🧰 My Tech stack: HTML, CSS, JavaScript, and React.
 - 📺 Youtube Channel: [Codehood](https://youtube.com/c/Codehood).
-- 📫 How to reach me: islam.sayed8@gmail.com. 
+- 📫 Contact me @ [islam.sayed8@gmail.com](islam.sayed8@gmail.com).
 
