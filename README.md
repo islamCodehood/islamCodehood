@@ -10,4 +10,4 @@
 - 📫 Contact me @ [islam.sayed8@gmail.com](islam.sayed8@gmail.com).
 
 
-[//]: <> (![](https://komarev.com/ghpvc/?username=islamCodehood&color=blue))
+![](https://komarev.com/ghpvc/?username=islamCodehood&color=blue)
