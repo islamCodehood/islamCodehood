@@ -5,7 +5,7 @@
 - 👨‍💻 Building ERP Web App @ [MLSecured](https://www.mlsecured.com/).
 - 📕 Currently reading [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/).
 - 📖 Currently learning [React Native](https://www.udemy.com/course/react-native-the-practical-guide).
-- 🧰 My Tech stack: HTML, CSS, JavaScript, and React.
+- 🧰 My Tech stack: HTML, CSS, JavaScript, TypeScript and React.
 - 📺 Youtube Channel: [Codehood](https://youtube.com/c/Codehood).
 - 📫 Contact me @ [islam.sayed8@gmail.com](islam.sayed8@gmail.com).
 
